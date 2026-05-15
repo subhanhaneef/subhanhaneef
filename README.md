@@ -5,9 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Specialist;TypeScript+Enthusiast;Performance+Optimizer)](https://github.com/subhanhaneef)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subhanhaneef&style=flat-square&color=00D4FF" alt="Profile views" />
   <a href="https://twitter.com/subhanhaneef"><img src="https://img.shields.io/badge/Follow-@subhanhaneef-1DA1F2?logo=twitter&logoColor=white&style=flat-square" /></a>
   <a href="https://linkedin.com/in/subhan-haneef"><img src="https://img.shields.io/badge/LinkedIn-Subhan%20Haneef-0077B5?logo=linkedin&logoColor=white&style=flat-square" /></a>
+  <img src="https://img.shields.io/github/followers/subhanhaneef?style=social&logo=github" alt="GitHub followers" />
 </p>
 
 ---
@@ -45,11 +45,14 @@ I'm a **Frontend Developer** with a keen focus on building **enterprise-grade we
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
