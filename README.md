@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #0f0f1e 0%, #1a1a2e 100%); padding: 40px 20px; border-radius: 15px; margin-bottom: 20px;">
 
 # 👋 Hi there! I'm **Subhan Haneef**
 
@@ -9,8 +9,6 @@
   <a href="https://linkedin.com/in/subhan-haneef"><img src="https://img.shields.io/badge/LinkedIn-Subhan%20Haneef-0077B5?logo=linkedin&logoColor=white&style=flat-square" /></a>
   <img src="https://img.shields.io/github/followers/subhanhaneef?style=social&logo=github" alt="GitHub followers" />
 </p>
-
----
 
 > **"Code that works today, built to scale tomorrow."**
 
