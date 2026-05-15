@@ -2,12 +2,12 @@
 
 # 👋 Hi there! I'm **Subhan Haneef**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Specialist;Web+Performance+Enthusiast;Crafting+Digital+Experiences)](https://github.com/subhanhaneef)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Specialist;TypeScript+Enthusiast;Performance+Optimizer)](https://github.com/subhanhaneef)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subhanhaneef&style=flat-square&color=blue" alt="Profile views" />
-  <a href="https://twitter.com/subhanhaneef"><img src="https://img.shields.io/badge/Follow-@subhanhaneef-1DA1F2?logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/subhan-haneef"><img src="https://img.shields.io/badge/LinkedIn-Subhan%20Haneef-0077B5?logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=subhanhaneef&style=flat-square&color=00D4FF" alt="Profile views" />
+  <a href="https://twitter.com/subhanhaneef"><img src="https://img.shields.io/badge/Follow-@subhanhaneef-1DA1F2?logo=twitter&logoColor=white&style=flat-square" /></a>
+  <a href="https://linkedin.com/in/subhan-haneef"><img src="https://img.shields.io/badge/LinkedIn-Subhan%20Haneef-0077B5?logo=linkedin&logoColor=white&style=flat-square" /></a>
 </p>
 
 ---
@@ -22,7 +22,7 @@ Building **fast, accessible, and beautiful web applications** that solve real-wo
 
 ## 🎯 About Me
 
-I'm a **Frontend Developer** with a keen focus on building **enterprise-grade web applications** using modern technologies. With hands-on experience in **React**, **Next.js**, and **TypeScript**, I create solutions that prioritize performance, accessibility, and maintainability.
+I'm a **Frontend Developer** with a keen focus on building **enterprise-grade web applications** using modern technologies. With hands-on experience in **React**, **Next.js**, and **TypeScript**, I create scalable solutions that prioritize user experience and performance.
 
 - 🔭 **Currently Working On:** Scalable React applications with Next.js and TypeScript for enterprise clients
 - 🌱 **Currently Learning:** Advanced Next.js patterns, WebAssembly, and backend integration with Node.js
@@ -34,32 +34,31 @@ I'm a **Frontend Developer** with a keen focus on building **enterprise-grade we
 ## 🚀 Technical Stack
 
 ### **Languages**
-```
-JavaScript (ES6+) | TypeScript | HTML5 | CSS3 | SQL
-```
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### **Frontend Technologies**
-```
-React.js | Next.js | Vue.js | Tailwind CSS | Bootstrap | Sass/SCSS
-```
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### **Tools & Platforms**
-```
-Git & GitHub | VS Code | Figma | npm/yarn | Vite | Webpack | Docker | Firebase
-```
-
-### **Core Competencies**
-```
-REST API Integration | State Management | Responsive Design
-Performance Optimization | Cross-Browser Compatibility | Web Accessibility (WCAG)
-```
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
 ## 📊 Skills Proficiency
 
-| Technology | Level | Experience |
-|---|:---:|---|
+| Technology | Proficiency | Experience |
+|:---|:---:|:---|
 | **HTML5 / CSS3** | ████████████████████ 100% | Expert |
 | **JavaScript** | ███████████████████░ 95% | Expert |
 | **React.js** | ██████████████████░░ 90% | Advanced |
@@ -98,17 +97,17 @@ Performance Optimization | Cross-Browser Compatibility | Web Accessibility (WCAG
 
 ## 🏆 Featured Projects
 
-### 1️⃣ **E-Commerce Platform** | React + Next.js + Stripe
+### **1️⃣ E-Commerce Platform** | React + Next.js + Stripe
 - Built full-stack e-commerce solution with product filtering, checkout, and payment integration
 - Implemented advanced search with Algolia
 - **Performance:** 98 Lighthouse score
 
-### 2️⃣ **Dashboard Analytics** | React + TypeScript + Chart.js
+### **2️⃣ Dashboard Analytics** | React + TypeScript + Chart.js
 - Real-time data visualization and analytics dashboard
 - Complex state management with Redux
 - **Impact:** Reduced data analysis time by 50%
 
-### 3️⃣ **SaaS Web Application** | Next.js + Firebase + Tailwind
+### **3️⃣ SaaS Web Application** | Next.js + Firebase + Tailwind
 - Multi-tenant SaaS application with authentication and role-based access
 - SEO-optimized with Server-Side Rendering (SSR)
 - **Users:** 1,000+ active users
