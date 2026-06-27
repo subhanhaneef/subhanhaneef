@@ -60,7 +60,7 @@ I'm a **Frontend Developer** with a keen focus on building **enterprise-grade we
 
 | Technology | Proficiency | Experience |
 |:---|:---:|:---|
-| **HTML5 / CSS3** | ████████████████████ 100% | Expert |
+| **HTML5 / CSS3** | ██████████████████████ 100% | Expert |
 | **JavaScript** | ███████████████████░ 95% | Expert |
 | **React.js** | ██████████████████░░ 90% | Advanced |
 | **Next.js** | █████████████████░░░ 85% | Advanced |
